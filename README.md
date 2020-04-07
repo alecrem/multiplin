@@ -1,6 +1,6 @@
 ## Overview and rules
 
-Multiplin is a game for 2 to 4 players designed to have fun while practising the multiplication table from a different point of view. The components are as follows:
+Multiplin is a free print-and-play game for 2 to 4 players designed to have fun while practising the multiplication table from a different point of view. The components are as follows:
 
 - A deck of 40 factor cards
 - A deck of 55 product cards
@@ -19,12 +19,16 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 1. The dealer deals every player a hand of 5 factor cards
 1. The dealer lays 8 more factor cards on the table, forming a 2 x 4 grid
 1. The dealer puts the rest of the factors deck on the table next to the products deck, both face down
+1. Start a new round
 
 ### How to play a round
 
 1. The player sitting on the dealer's left becomes the new dealer
-1. The dealer flips the top card of the products deck
-1. Players can immediately try to solve it, by putting one of the factor cards in their hand on top of one of the factor cards on the table. Both cards must yield the value of the product card when multiplied. If they don't, those cards are put back to where they came from. Players do not have turns, and the first player to solve the present product card wins the round.
+1. The dealer reveals the top card of the products deck
+1. Players can immediately try to solve it, by putting one of the factor cards in their hand on top of one of the factor cards on the table
+  - Players may not use two cards from their hand or two cards from the board, it must be one of each
+  - Both cards must yield the value of the product card when multiplied (if they don't, those cards are put back to where they came from)
+  - Players do not have turns, and the first player to solve the present product card wins the round
 
 ### If no player can solve the product card
 
@@ -42,22 +46,30 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 
 ## Print and play
 
+Feel free to print, play, and modify Multiplin. I hope you will enjoy it.
+
 - [Find the PDF here](/multiplin/pap/multiplin.pdf)
 
-- [Here's a CSV](/multiplin/csv/multiplin-cards.csv) if you want to design your own version. I'd' appreciate it if you shared it back.
+- [Here's a CSV](/multiplin/csv/multiplin-cards.csv) if you want to design your own version (I'd appreciate it if you shared it back!)
 
-For the best results, print factor and product cards in different-coloured card stock, or sleeve both decks using opacque sleeves in different colours. It helps avoid shuffling the different decks together.
+- The cards are just a bunch of numbers, so it's perfectly okay to just write the numbers with a marker on index cards
+
+For the best results, make factor and product cards in different-coloured card stock, or sleeve both decks using opacque card sleeves in different colours. It helps avoid shuffling the different decks together.
 
 ## FAQ
 
-- Q: I saw the product cards. Why are they not just all the numbers? Why are there duplicates?
+> __Q:__ I saw the product cards. Why are they not just all the numbers from 1 to 100?
 
-A: The game is designed to practise the multiplication table.
+__A:__ The game is designed to practise the multiplication table.
 
 Some numbers that didn't make it to the product cards are prime numbers greater than 10, such as 11 or 97, because they can't be found when multiplying two numbers between 1 and 10.
 
 Some others that didn't make the cut are numbers that can't be produced by two factors lesser than 11, such as 22, 39 or 96.
 
-There are duplicate cards when a product card can be solved in more ways than other products.
+The figure above illustrates the way the suitable numbers for product cards were found.
+
+> __Q:__ Why are there duplicates?
+
+__A:__ There are duplicate cards when a product card can be solved in more ways than other products.
 
 All this is to make the game smoother and even the odds for most product cards to be solved. You might realise something about the square product cards, but before you ask let me say I think the game is fine in that regard. Feel free to think of that as a thing to be learnt that might make you better at playing the game.
