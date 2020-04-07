@@ -70,7 +70,7 @@ Some numbers that didn't make it to the product cards are prime numbers greater 
 
 Some others that didn't make the cut are numbers that can't be produced by two factors lesser than 11, such as 22, 39 or 96.
 
-![some product examples: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](/multiplin/images/solution-examples.png)
+![Possible products diagram](/multiplin/images/multiplin-products.png)
 
 The figure above illustrates the way the suitable numbers for product cards were found.
 
