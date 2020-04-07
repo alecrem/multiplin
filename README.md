@@ -18,7 +18,7 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 1. Shuffle both decks separately
 1. The dealer deals every player a hand of 5 factor cards
 1. The dealer lays 8 more factor cards on the table, forming a 2 x 4 grid
-1. The dealer puts the rest of the factors deck on the table next to the products deck, both face down
+1. The dealer puts the rest of the factors deck on the table next to the products deck, both facedown
 1. Start a new round
 
 ![board ready to play](/multiplin/images/board-layout.png)
@@ -58,7 +58,7 @@ Feel free to print, play, and modify Multiplin. I hope you will enjoy it.
 
 - The cards are just a bunch of numbers, so it's perfectly okay to just write the numbers with a marker on index cards
 
-For the best results, make factor and product cards in different-coloured card stock, or sleeve both decks using opacque card sleeves in different colours. It helps avoid shuffling the different decks together.
+For the best results, make factor and product cards in different-coloured card stock, or sleeve both decks using opaque card sleeves in different colours. It helps avoid shuffling the different decks together.
 
 ## FAQ
 
