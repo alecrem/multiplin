@@ -21,6 +21,8 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 1. The dealer puts the rest of the factors deck on the table next to the products deck, both face down
 1. Start a new round
 
+![board ready to play](/multiplin/images/board-layout.png)
+
 ### How to play a round
 
 1. The player sitting on the dealer's left becomes the new dealer
@@ -29,6 +31,8 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
   - Players may not use two cards from their hand or two cards from the board, it must be one of each
   - Both cards must yield the value of the product card when multiplied (if they don't, those cards are put back to where they came from)
   - Players do not have turns, and the first player to solve the present product card wins the round
+
+![good and bad solutions](/multiplin/images/board-solutions.png)
 
 ### If no player can solve the product card
 
@@ -65,6 +69,8 @@ __A:__ The game is designed to practise the multiplication table.
 Some numbers that didn't make it to the product cards are prime numbers greater than 10, such as 11 or 97, because they can't be found when multiplying two numbers between 1 and 10.
 
 Some others that didn't make the cut are numbers that can't be produced by two factors lesser than 11, such as 22, 39 or 96.
+
+![some product examples: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](/multiplin/images/solution-examples.png)
 
 The figure above illustrates the way the suitable numbers for product cards were found.
 
