@@ -1,3 +1,7 @@
+English | [Español](https://alecrem.github.io/multiplin/README-es)
+
+---
+
 ## Overview and rules
 
 Multiplin is a free print-and-play game for 2 to 4 players designed to have fun while practising the multiplication table from a different point of view. The components are as follows:
