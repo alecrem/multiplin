@@ -33,7 +33,7 @@ El objetivo del juego es quedarse sin cartas en mano, combinando las cartas de f
 1. Los jugadores pueden intentar resolverla inmediatamente, poniendo una de las cartas de factor de su mano sobre una de las cartas de factor que hay en la mesa
   - No se pueden usar dos cartas de la mano ni dos cartas de la mesa; deben ser una de cada
   - El producto (multiplicación) de las dos cartas debe dar el valor de la carta de producto revelada (si no, las cartas de factor se devuelven a donde estaban)
-  - Los jugadores no tienen turnos, y el primer jugador en reselvar la carta de producto relevada gana la ronda
+  - Los jugadores no tienen turnos, y el primer jugador en resolver la carta de producto relevada gana la ronda
 
 ![Soluciones buenas y malas](https://alecrem.github.io/multiplin/images/board-solutions.png)
 
