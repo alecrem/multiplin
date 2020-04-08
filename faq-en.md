@@ -1,11 +1,11 @@
 
 ## FAQ
 
-> __Q:__ I saw the product cards. Why are they not just all the numbers from 1 to 100?
+> __Q:__ Why does the products deck not have all numbers from 1 to 100 in it?
 
 __A:__ The game is designed to practise the multiplication table.
 
-Some numbers that didn't make it to the product cards are prime numbers greater than 10, such as 11 or 97, because they can't be found when multiplying two numbers between 1 and 10.
+Some numbers that didn't make it to a product card are prime numbers greater than 10, such as 11 or 97, because they can't be found when multiplying two numbers between 1 and 10.
 
 Some others that didn't make the cut are numbers that can't be produced by two factors lesser than 11, such as 22, 39 or 96.
 
@@ -24,7 +24,7 @@ Some others that didn't make the cut are numbers that can't be produced by two f
 
 The figure above illustrates the way the suitable numbers for product cards were found.
 
-> __Q:__ Why are there duplicates?
+> __Q:__ Why are there duplicates in the products deck?
 
 __A:__ There are duplicate cards when a product card can be solved in more ways than other products.
 

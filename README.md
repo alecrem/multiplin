@@ -13,7 +13,6 @@ Every card in the products deck is the result of multiplying two cards in the fa
 
 ![some product examples: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](https://alecrem.github.io/multiplin/images/solution-examples.png)
 
-
 The purpose of the game is to empty one's hand, by combining the factor cards in your hand with the ones on the table to solve the product cards.
 
 ### How to begin a game
@@ -33,21 +32,21 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 1. The dealer reveals the top card of the products deck
 1. Players can immediately try to solve it, by putting one of the factor cards in their hand on top of one of the factor cards on the table
   - Players may not use two cards from their hand or two cards from the board, it must be one of each
-  - Both cards must yield the value of the product card when multiplied (if they don't, those cards are put back to where they came from)
-  - Players do not have turns, and the first player to solve the present product card wins the round
+  - Both cards must yield the value of the revealed product card when multiplied (if they don't, those cards are put back to where they came from)
+  - Players do not have turns, and the first player to solve the revealed product card wins the round
 
 ![good and bad solutions](https://alecrem.github.io/multiplin/images/board-solutions.png)
 
-### If no player can solve the product card
+### If no player can solve the revealed product card
 
-1. The dealer puts the unsolved product card in the bottom of the products deck
+1. The dealer puts the revealed product card in the bottom of the products deck
 1. Start a new round
 
 ### When a round is won
 
 1. If any number of players have no cards in hand, they win the game and the game is over
-1. There is no need to break ties — if two or more players solved the product card at the same time, all of them can get rid of their product card
-1. The dealer puts the solved product card in the bottom of the products deck
+1. There is no need to break ties — if two or more players solved the product card at the same time, all of them can get rid of their factor card
+1. The dealer puts the revealed product card in the bottom of the products deck
 1. The dealer puts the used factor cards in the bottom of the factors deck
 1. The dealer refills the 2 x 4 grid of factor cards with new cards from the factors deck
 1. Start a new round
@@ -57,9 +56,7 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 Feel free to print, play, and modify Multiplin. I hope you will enjoy it.
 
 - [Find the PDF here](https://alecrem.github.io/multiplin/pap/multiplin.pdf)
-
 - [Here's a CSV](https://alecrem.github.io/multiplin/csv/multiplin-cards.csv) if you want to design your own version (I'd appreciate it if you shared it back!)
-
 - The cards are just a bunch of numbers, so it's perfectly okay to just write the numbers with a marker on index cards
 
 For the best results, make factor and product cards in different-coloured card stock, or sleeve both decks using opaque card sleeves in different colours. It helps avoid shuffling the different decks together.
