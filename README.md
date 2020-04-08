@@ -7,7 +7,7 @@ Multiplin is a free print-and-play game for 2 to 4 players designed to have fun 
 
 Every card in the products deck is the result of multiplying two cards in the factors deck, i.e.:
 
-![some product examples: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](/multiplin/images/solution-examples.png)
+![some product examples: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](https://alecrem.github.io/multiplin/images/solution-examples.png)
 
 
 The purpose of the game is to empty one's hand, by combining the factor cards in your hand with the ones on the table to solve the product cards.
@@ -21,7 +21,7 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 1. The dealer puts the rest of the factors deck on the table next to the products deck, both facedown
 1. Start a new round
 
-![board ready to play](/multiplin/images/board-layout.png)
+![board ready to play](https://alecrem.github.io/multiplin/images/board-layout.png)
 
 ### How to play a round
 
@@ -32,7 +32,7 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
   - Both cards must yield the value of the product card when multiplied (if they don't, those cards are put back to where they came from)
   - Players do not have turns, and the first player to solve the present product card wins the round
 
-![good and bad solutions](/multiplin/images/board-solutions.png)
+![good and bad solutions](https://alecrem.github.io/multiplin/images/board-solutions.png)
 
 ### If no player can solve the product card
 
@@ -52,9 +52,9 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 
 Feel free to print, play, and modify Multiplin. I hope you will enjoy it.
 
-- [Find the PDF here](/multiplin/pap/multiplin.pdf)
+- [Find the PDF here](https://alecrem.github.io/multiplin/pap/multiplin.pdf)
 
-- [Here's a CSV](/multiplin/csv/multiplin-cards.csv) if you want to design your own version (I'd appreciate it if you shared it back!)
+- [Here's a CSV](https://alecrem.github.io/multiplin/csv/multiplin-cards.csv) if you want to design your own version (I'd appreciate it if you shared it back!)
 
 - The cards are just a bunch of numbers, so it's perfectly okay to just write the numbers with a marker on index cards
 
@@ -67,4 +67,4 @@ Feel free to use any of the following ways to contact me:
 - Twitter: [@karawapo](https://twitter.com/karawapo)
 - Telegram [@karawapo](https://t.me/karawapo)
 
-If you found an issue or have a question, please take a look at the [FAQ](/multiplin/faq-en) and feel free to [add an issue on GitHub](https://github.com/alecrem/multiplin/issues)
+If you found an issue or have a question, please take a look at the [FAQ](https://alecrem.github.io/multiplin/faq-en) and feel free to [add an issue on GitHub](https://github.com/alecrem/multiplin/issues)

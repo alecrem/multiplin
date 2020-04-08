@@ -29,3 +29,6 @@ The figure above illustrates the way the suitable numbers for product cards were
 __A:__ There are duplicate cards when a product card can be solved in more ways than other products.
 
 All this is to make the game smoother and even the odds for most product cards to be solved. You might realise something about the square product cards, but before you ask let me say I think the game is fine in that regard. Feel free to think of that as a thing to be learnt that might make you better at playing the game.
+
+---
+[Back to the home page](https://alecrem.github.io/multiplin/)
