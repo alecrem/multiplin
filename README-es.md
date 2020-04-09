@@ -4,7 +4,7 @@
 
 ## Descripción y reglas
 
-Multiplín es un juego print-and-play gratuito para de 2 a 4 jugadores, diseñado para pasarlo bien mientras se practican las tablas de multiplicar desde otro punto de vista. Los componentes son:
+Multiplín es un juego de cartas print-and-play gratuito para de 2 a 4 jugadores, diseñado para pasarlo bien mientras se practican las tablas de multiplicar desde otro punto de vista. Los componentes son:
 
 - Un mazo de 40 cartas de factor
 - Un mazo de 55 cartas de producto
@@ -18,7 +18,7 @@ El objetivo del juego es quedarse sin cartas en mano, combinando las cartas de f
 ### Cómo empezar una partida
 
 1. Elegir al azar un jugador para que sea el repartidor inicial
-1. Barajar ambos mazos separados
+1. El repartidor baraja ambos mazos por separado
 1. El repartidor reparte una mano de 5 cartas de factor a cada jugador
 1. El repartidor pone 8 cartas más de factor en la mesa, en 2 filas de 4 cartas
 1. El repartidor pone el resto del mazo de factores sobre la mesa al lado del mazo de productos, ambos boca abajo

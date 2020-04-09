@@ -1,4 +1,3 @@
-
 ## FAQ
 
 > __Q:__ Why does the products deck not have all numbers from 1 to 100 in it?
