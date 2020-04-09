@@ -1,4 +1,4 @@
-English | [Español](https://alecrem.github.io/multiplin/README-es)
+English | [Español](https://alecrem.github.io/multiplin/README-es) | [日本語](https://alecrem.github.io/multiplin/README-ja)
 
 ---
 
