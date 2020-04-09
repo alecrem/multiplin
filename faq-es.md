@@ -1,4 +1,3 @@
-
 ## FAQ
 
 > __Q:__ ¿Por qué no tiene el mazo de productos todos los números del 1 al 100?

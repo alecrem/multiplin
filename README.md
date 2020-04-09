@@ -1,10 +1,10 @@
-English | [Español](https://alecrem.github.io/multiplin/README-es)
+English | [Español](https://alecrem.github.io/multiplin/README-es) | [日本語](https://alecrem.github.io/multiplin/README-ja)
 
 ---
 
 ## Overview and rules
 
-Multiplin is a free print-and-play game for 2 to 4 players designed to have fun while practising the multiplication table from a different point of view. The components are as follows:
+Multiplin is a free print-and-play card game for 2 to 4 players designed to have fun while practising the multiplication table from a different point of view. The components are as follows:
 
 - A deck of 40 factor cards
 - A deck of 55 product cards
@@ -18,7 +18,7 @@ The purpose of the game is to empty one's hand, by combining the factor cards in
 ### How to begin a game
 
 1. Choose the initial dealer randomly
-1. Shuffle both decks separately
+1. The dealer shuffles both decks separately
 1. The dealer deals every player a hand of 5 factor cards
 1. The dealer lays 8 more factor cards on the table, forming a 2 x 4 grid
 1. The dealer puts the rest of the factors deck on the table next to the products deck, both facedown
