@@ -1,4 +1,4 @@
-English | [Español](https://alecrem.github.io/multiplin/README-es) | [日本語](https://alecrem.github.io/multiplin/README-ja)
+English | [Español](https://alecrem.github.io/multiplin/es) | [日本語](https://alecrem.github.io/multiplin/ja)
 
 ---
 
@@ -68,4 +68,4 @@ Feel free to use any of the following ways to contact me:
 - Twitter: [@karawapo](https://twitter.com/karawapo)
 - Telegram [@karawapo](https://t.me/karawapo)
 
-If you found an issue or have a question, please take a look at the [FAQ](https://alecrem.github.io/multiplin/faq-en) and feel free to [add an issue on GitHub](https://github.com/alecrem/multiplin/issues)
+If you found an issue or have a question, please take a look at the [FAQ](https://alecrem.github.io/multiplin/en/faq) and feel free to [add an issue on GitHub](https://github.com/alecrem/multiplin/issues)
