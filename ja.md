@@ -1,4 +1,4 @@
-[English](https://alecrem.github.io/multiplin/) | [Español](https://alecrem.github.io/multiplin/README-es) | 日本語
+[English](https://alecrem.github.io/multiplin/) | [Español](https://alecrem.github.io/multiplin/es) | 日本語
 
 ---
 
@@ -68,4 +68,4 @@ Multiplinを印刷し、遊び、好きなように改造してもらって大�
 - Twitter: [@karawapo](https://twitter.com/karawapo)
 - Telegram [@karawapo](https://t.me/karawapo)
 
-何か問題を見つけられた方、ご質問ある方、まずは[FAQ](https://alecrem.github.io/multiplin/faq-ja)をご確認ください。[GitHubでissueを追加](https://github.com/alecrem/multiplin/issues)することもできます。
+何か問題を見つけられた方、ご質問ある方、まずは[FAQ](https://alecrem.github.io/multiplin/ja/faq)をご確認ください。[GitHubでissueを追加](https://github.com/alecrem/multiplin/issues)することもできます。
