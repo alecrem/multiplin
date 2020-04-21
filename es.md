@@ -1,4 +1,4 @@
-[English](https://alecrem.github.io/multiplin/) | Español | [日本語](https://alecrem.github.io/multiplin/ja)
+[English](https://multiplin.alecrem.com/) | Español | [日本語](https://multiplin.alecrem.com/ja)
 
 ---
 
@@ -11,7 +11,7 @@ Multiplín es un juego de cartas print-and-play gratuito para de 2 a 4 jugadores
 
 Cada carta del mazo de los productos es el resultado de multiplicar dos cartas del mazo de los factores. Por ejemplo:
 
-![Algunos ejemplos de productos: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](https://alecrem.github.io/multiplin/images/solution-examples.png)
+![Algunos ejemplos de productos: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](https://multiplin.alecrem.com/images/solution-examples.png)
 
 El objetivo del juego es quedarse sin cartas en mano, combinando las cartas de factor de la mano con las de la mesa, para resolver las cartas de producto.
 
@@ -24,7 +24,7 @@ El objetivo del juego es quedarse sin cartas en mano, combinando las cartas de f
 1. El repartidor pone el resto del mazo de factores sobre la mesa al lado del mazo de productos, ambos boca abajo
 1. Empezar una nueva ronda
 
-![Mesa lista para jugar](https://alecrem.github.io/multiplin/images/board-layout.png)
+![Mesa lista para jugar](https://multiplin.alecrem.com/images/board-layout.png)
 
 ### Cómo jugar una ronda
 
@@ -35,7 +35,7 @@ El objetivo del juego es quedarse sin cartas en mano, combinando las cartas de f
   - El producto (multiplicación) de las dos cartas debe dar el valor de la carta de producto revelada (si no, las cartas de factor se devuelven a donde estaban)
   - Los jugadores no tienen turnos, y el primer jugador en resolver la carta de producto relevada gana la ronda
 
-![Soluciones buenas y malas](https://alecrem.github.io/multiplin/images/board-solutions.png)
+![Soluciones buenas y malas](https://multiplin.alecrem.com/images/board-solutions.png)
 
 ### Si ningún jugador puede resolver la carta de producto revelada
 
@@ -55,8 +55,8 @@ El objetivo del juego es quedarse sin cartas en mano, combinando las cartas de f
 
 Puedes imprimir, jugar y modificar Multiplín como desees. Espero que te guste.
 
-- [Aquí está el PDF](https://alecrem.github.io/multiplin/pap/multiplin.pdf)
-- [Aquí hay un CSV](https://alecrem.github.io/multiplin/csv/multiplin-cards.csv) por si quieres diseñar tu propia versión (te agradecería que la compartieses también)
+- [Aquí está el PDF](https://multiplin.alecrem.com/pap/multiplin.pdf)
+- [Aquí hay un CSV](https://multiplin.alecrem.com/csv/multiplin-cards.csv) por si quieres diseñar tu propia versión (te agradecería que la compartieses también)
 - Las cartas solo tienen números, así que tampoco está mal escribirlas a mano con rotulador en vez de imprimirlas
 
 Para mayor comodidad, imprime las cartas de factor y de producto en cartulina de 2 colores diferentes, o pon las cartas en fundas opacas de 2 colores diferentes. Ayuda a no barajar los dos mazos juntos por error.
@@ -68,4 +68,4 @@ Puedes usar cualquiera de estos medios para ponerte en contacto conmigo:
 - Twitter: [@karawapo](https://twitter.com/karawapo)
 - Telegram [@karawapo](https://t.me/karawapo)
 
-Si encuentras un problema o tienes una pregunta, por favor lee el [FAQ](https://alecrem.github.io/multiplin/es/faq) y puedes [añadir un _issue_ en GitHub](https://github.com/alecrem/multiplin/issues)
+Si encuentras un problema o tienes una pregunta, por favor lee el [FAQ](https://multiplin.alecrem.com/es/faq) y puedes [añadir un _issue_ en GitHub](https://github.com/alecrem/multiplin/issues)

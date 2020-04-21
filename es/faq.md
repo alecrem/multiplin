@@ -30,4 +30,4 @@ __A:__ Hay números repetidos cuando un producto se puede hallar a través de m�
 Todo esto es para que el juego sea más fluido y para igualar un poco la probabilidad que tienen las cartas de ser resueltas. Puede que te hayas dado cuenta de un detalle acerca de las cartas de producto que son cuadrados, pero antes de que preguntes déjame decirte que creo que el juego está bien así. Puedes pensar en ello como un pequeño detalle que te puede ayudar a ser más competitivo en el juego.
 
 ---
-[Volver a la página principal](https://alecrem.github.io/multiplin/es)
+[Volver a la página principal](https://multiplin.alecrem.com/es)
