@@ -1,4 +1,4 @@
-[English](https://alecrem.github.io/multiplin/) | [Español](https://alecrem.github.io/multiplin/es) | 日本語
+[English](https://multiplin.alecrem.com/) | [Español](https://multiplin.alecrem.com/es) | 日本語
 
 ---
 
@@ -11,7 +11,7 @@ Multiplin（マルチプリン）は2〜4人用の無料のプリントアンド
 
 積デッキのカードは1枚ずつ、因数デッキのカード2枚を掛けることでできます。例えば：
 
-![積のいくつかの例: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](https://alecrem.github.io/multiplin/images/solution-examples.png)
+![積のいくつかの例: 2 x 2 = 4; 6 x 6 = 36; 4 x 9 = 36; 9 x 1 = 9](https://multiplin.alecrem.com/images/solution-examples.png)
 
 ゲームの目的は手札を全部なくして上がることです。手札の因数をなくすには場に出ている因数と組み合わせて積カードを解決していきます。
 
@@ -24,7 +24,7 @@ Multiplin（マルチプリン）は2〜4人用の無料のプリントアンド
 1. 親は残った因数デッキを積デッキの隣、場の横に置く（両方下向きに）
 1. 新しいラウンドを始める
 
-![プレイできるように準備できた場](https://alecrem.github.io/multiplin/images/board-layout.png)
+![プレイできるように準備できた場](https://multiplin.alecrem.com/images/board-layout.png)
 
 ### ラウンドの遊び方
 
@@ -35,7 +35,7 @@ Multiplin（マルチプリン）は2〜4人用の無料のプリントアンド
   - その2枚の因数カードの積（掛け算の答え）は公開された積カードの値にならなければならない（そうではなかった場合、因数カードは元あった場所に戻る）
   - プレイヤーに手札を出す順番はなく、公開された積カードを最初に解決できたプレイヤーがラウンドに勝つ
 
-![いい回答とダメな回答](https://alecrem.github.io/multiplin/images/board-solutions.png)
+![いい回答とダメな回答](https://multiplin.alecrem.com/images/board-solutions.png)
 
 ### 公開された積カードを解決できるプレイヤーがいない場合
 
@@ -55,8 +55,8 @@ Multiplin（マルチプリン）は2〜4人用の無料のプリントアンド
 
 Multiplinを印刷し、遊び、好きなように改造してもらって大丈夫です。楽しんでいただければ幸いです。
 
-- [PDFはここです](https://alecrem.github.io/multiplin/pap/multiplin.pdf)
-- 自分のバージョンにデザインしたい場合は[このCSV](https://alecrem.github.io/multiplin/csv/multiplin-cards.csv)を使ってください（それをまた共有していただければ嬉しいです）
+- [PDFはここです](https://multiplin.alecrem.com/pap/multiplin.pdf)
+- 自分のバージョンにデザインしたい場合は[このCSV](https://multiplin.alecrem.com/csv/multiplin-cards.csv)を使ってください（それをまた共有していただければ嬉しいです）
 - カードには数字しか書かれていないので、マーカーで手書きでも作成できます
 
 因数カードと積カードをそれぞれの色の厚紙に印刷できると使いやすいです。2色の不透明スリーブに入れるのもわかりやすいです。二つのデッキを混ぜて切らないようにしましょう。
@@ -68,4 +68,4 @@ Multiplinを印刷し、遊び、好きなように改造してもらって大�
 - Twitter: [@karawapo](https://twitter.com/karawapo)
 - Telegram [@karawapo](https://t.me/karawapo)
 
-何か問題を見つけられた方、ご質問ある方、まずは[FAQ](https://alecrem.github.io/multiplin/ja/faq)をご確認ください。[GitHubでissueを追加](https://github.com/alecrem/multiplin/issues)することもできます。
+何か問題を見つけられた方、ご質問ある方、まずは[FAQ](https://multiplin.alecrem.com/ja/faq)をご確認ください。[GitHubでissueを追加](https://github.com/alecrem/multiplin/issues)することもできます。
